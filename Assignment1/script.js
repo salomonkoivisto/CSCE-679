@@ -26,7 +26,7 @@ Here are the basic requirements:
 
     // Github location
     const CSV_URL =
-        "https://raw.githubusercontent.com/salomonkoivisto/CSCE-679/main/temperature_daily.csv";
+        "https://raw.githubusercontent.com/salomonkoivisto/CSCE-679/main/Assignment1/temperature_daily.csv";
 
     const months = [
         "January", "February", "March", "April", "May", "June",
